@@ -1,0 +1,10 @@
+h1{
+	background-color: blue;
+	color: gray;
+	font-size: 1em;
+}
+p{
+	background-color: gray;
+	color: blue;
+	font-size: 0.7em;
+}
